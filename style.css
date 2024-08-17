@@ -1,0 +1,18 @@
+h1 {
+    color: aquamarine;
+    background-color: beige;
+}
+
+ul {
+    background-color: beige;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+ol {
+    background-color: azure;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+a {
+    color: pink;
+}
